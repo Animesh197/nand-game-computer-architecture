@@ -10,3 +10,5 @@
 <!-- AND uses 2 NANDs, OR uses 3 NANDs - both optimal -->
 
 <!-- XOR: 4 NAND gates, optimal implementation -->
+
+<!-- Half Adder: 5 NAND gates, sum and carry output -->
