@@ -12,3 +12,5 @@
 <!-- XOR: 4 NAND gates, optimal implementation -->
 
 <!-- Half Adder: 5 NAND gates, sum and carry output -->
+
+<!-- Full Adder: 9 NAND gates, three-input addition -->
