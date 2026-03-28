@@ -16,3 +16,5 @@
 <!-- Full Adder: 9 NAND gates, three-input addition -->
 
 <!-- Multi-bit Adder: 18 NAND gates, ripple-carry design -->
+
+<!-- Increment: 145 NANDs; Subtraction: 161 NANDs using two's complement -->
