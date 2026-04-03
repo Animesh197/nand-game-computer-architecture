@@ -20,3 +20,5 @@
 <!-- Increment: 145 NANDs; Subtraction: 161 NANDs using two's complement -->
 
 <!-- Equal to Zero: 10 NANDs; Less than Zero: 0 NANDs (MSB check) -->
+
+<!-- Selector: 4 NANDs (MUX); Switch: 4 NANDs (controlled pass-through) -->
