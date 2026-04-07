@@ -22,3 +22,5 @@
 <!-- Equal to Zero: 10 NANDs; Less than Zero: 0 NANDs (MSB check) -->
 
 <!-- Selector: 4 NANDs (MUX); Switch: 4 NANDs (controlled pass-through) -->
+
+<!-- Logic Unit: 7 NANDs, supports AND/OR/XOR/NOT via opcode -->
