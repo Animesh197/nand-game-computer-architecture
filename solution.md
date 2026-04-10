@@ -24,3 +24,5 @@
 <!-- Selector: 4 NANDs (MUX); Switch: 4 NANDs (controlled pass-through) -->
 
 <!-- Logic Unit: 7 NANDs, supports AND/OR/XOR/NOT via opcode -->
+
+<!-- Arithmetic Unit: 5 NANDs, add/subtract via opcode -->
