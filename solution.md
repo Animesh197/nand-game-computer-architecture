@@ -26,3 +26,5 @@
 <!-- Logic Unit: 7 NANDs, supports AND/OR/XOR/NOT via opcode -->
 
 <!-- Arithmetic Unit: 5 NANDs, add/subtract via opcode -->
+
+<!-- ALU: 6 NANDs combining logic and arithmetic units -->
