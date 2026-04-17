@@ -28,3 +28,5 @@
 <!-- Arithmetic Unit: 5 NANDs, add/subtract via opcode -->
 
 <!-- ALU: 6 NANDs combining logic and arithmetic units -->
+
+<!-- Condition Unit: 8 NANDs for GT/EQ/LT flags -->
