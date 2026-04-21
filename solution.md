@@ -30,3 +30,5 @@
 <!-- ALU: 6 NANDs combining logic and arithmetic units -->
 
 <!-- Condition Unit: 8 NANDs for GT/EQ/LT flags -->
+
+<!-- Latch: 4 NANDs (SR); Data Flip-Flop: 5 NANDs (clocked) -->
