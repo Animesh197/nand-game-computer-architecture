@@ -36,3 +36,5 @@
 <!-- Register: 26 NANDs (4-bit); Counter: 418 NANDs (ripple toggle) -->
 
 <!-- RAM: 484 NANDs, 4x4 configuration with address decoder -->
+
+<!-- Combined Memory: 416 NANDs; Instruction: 3 NANDs; Control Unit: 10 NANDs -->
