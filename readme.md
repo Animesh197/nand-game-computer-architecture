@@ -4,7 +4,18 @@
 
 Solutions for The Nand Game, a game that teaches the fundamentals of computing by building a computer from scratch. Each level is accompanied by images of the logic gates used to build the components.
 
+## NandGame
 
+[NandGame](https://nandgame.com/) is an interactive platform to learn how computers work from scratch using only NAND gates. It covers topics like logic gates, arithmetic units, ALU, memory, CPU design, and low-level computing concepts.
+
+### Features
+- Build logic circuits using NAND gates
+- Learn Computer Architecture interactively
+- Understand ALU, Registers, Memory, and CPU
+- Inspired by the Nand2Tetris course
+
+### Website
+https://nandgame.com/
 
 ## Table of Contents
 
