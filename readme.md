@@ -1,4 +1,4 @@
-<img width="335" height="165" alt="Screenshot 2026-05-08 at 16 14 17" src="https://github.com/user-attachments/assets/3ec83edc-c5a1-4a31-a5d7-680473603382" />
+<img width="700" height="165" alt="Screenshot 2026-05-08 at 16 14 17" src="https://github.com/user-attachments/assets/3ec83edc-c5a1-4a31-a5d7-680473603382" />
 
 # NandGame
 
