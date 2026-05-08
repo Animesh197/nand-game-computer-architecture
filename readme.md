@@ -1,3 +1,5 @@
+<img width="335" height="165" alt="Screenshot 2026-05-08 at 16 14 17" src="https://github.com/user-attachments/assets/3ec83edc-c5a1-4a31-a5d7-680473603382" />
+
 # NandGame
 
 Solutions for The Nand Game, a game that teaches the fundamentals of computing by building a computer from scratch. Each level is accompanied by images of the logic gates used to build the components.
