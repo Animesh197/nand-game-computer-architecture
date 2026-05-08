@@ -17,6 +17,11 @@ Solutions for The Nand Game, a game that teaches the fundamentals of computing b
 ### Website
 https://nandgame.com/
 
+## Medium Article
+
+Read the full article here:  
+👉 https://medium.com/@arun96/how-a-processor-is-built-from-nand-gates-from-logic-gates-to-a-complete-cpu-b2e1a8ca9137
+
 ## Table of Contents
 
 - [Levels](#levels)
